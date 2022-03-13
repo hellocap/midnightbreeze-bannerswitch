@@ -7,4 +7,4 @@ First, set up a Twitter app at https://developer.twitter.com/apps, which will ge
 
 Second, install [Tweepy](http://www.tweepy.org/) with the command ```pip install tweepy ```
 
-To switch your twitter banner (i.e. the python code) at a pre-defined frequency (e.g. every hour), you would need to set up a Cron Job. Instructions will follow
+To switch your twitter banner (i.e. the python code```breeze-switch.py```) at a pre-defined frequency (e.g. every hour), you would need to set up a Cron Job. Instructions will follow
