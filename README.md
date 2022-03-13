@@ -6,7 +6,7 @@ This python code randomly picks a midnight breeze banner and updates your Twitte
 
 # Getting Started
 
-First, set up a Twitter app at https://developer.twitter.com/apps, which will generate an API Key, API Secret, Access Token, and Access Token Secret needed for OAuth. Please make sure to provide read and write access to the Twitter app.
+First, set up a Twitter app at https://developer.twitter.com/apps, which will generate a ```Consumer Key``` , ```Consumer Secret```, ```Access Token```, and ```Access Token Secret``` needed to identify and access your Twitter account. Please make sure to provide read and write access to the Twitter app.
 
 Second, install [Tweepy](http://www.tweepy.org/) with the command ```pip install tweepy ```
 
