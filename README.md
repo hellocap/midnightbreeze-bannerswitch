@@ -2,7 +2,7 @@
 
 ![](twitter_midnightbreeze.jpg?raw=true "")
 
-This python code randomly picks a midnight breeze banner and updates your Twitter profile accordingly at a pre-defined frequency through a cron job.
+This python code randomly picks a midnight breeze banner and updates your Twitter profile accordingly at at regular interval through a cron job.
 
 # Getting Started
 
@@ -10,7 +10,7 @@ First, set up a Twitter app at https://developer.twitter.com/apps, which will ge
 
 Second, install [Tweepy](http://www.tweepy.org/) with the command ```pip install tweepy ```
 
-Third, run the python code ```switchBreeze.py``` at a pre-defined frequency (e.g. every hour) by setting up a Cron Job. Instructions will follow to setup a cron job.
+Third, run the python code ```switchBreeze.py``` at regular interval (e.g. every hour) by setting up a Cron Job. Instructions will follow to setup a cron job.
 
 # Examples
 
