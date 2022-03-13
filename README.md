@@ -12,7 +12,7 @@ Second, install [Tweepy](http://www.tweepy.org/) with the command ```pip install
 
 Third, run the python code```breeze-switch.py``` at a pre-defined frequency (e.g. every hour) by setting up a Cron Job. Instructions will follow to setup a cron job.
 
-# Getting Started
+# Examples
 
 Checkout the result on following twitter accounts:
 
