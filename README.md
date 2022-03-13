@@ -1,4 +1,4 @@
-# midnightbreeze_bannerswitchCancel changes
+# Midnight Breeze - Twitter Banner Switch
 This code picks randomly a midnight breeze banner and updates your Twitter profile accordingly at a pre-defined frequency.
 
 # Getting Started
