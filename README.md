@@ -1,5 +1,8 @@
 # Midnight Breeze - Twitter Banner Switch
-This code picks randomly a midnight breeze banner and updates your Twitter profile accordingly at a pre-defined frequency.
+
+![](twitter_midnightbreeze.jpg?raw=true "")
+
+This python code randomly picks a midnight breeze banner and updates your Twitter profile accordingly at a pre-defined frequency through a cron job.
 
 # Getting Started
 
